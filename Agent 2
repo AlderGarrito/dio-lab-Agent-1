@@ -1,0 +1,226 @@
+Agent 2
+
+> **Usuário:**  
+> Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.  
+> Carreira em Tecnologia  
+> Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.  
+> 
+> ## 🎯 SUA MISSÃO  
+> Receber as informações do Agent 1 e gerar um plano completo de estudos com:  
+> - Visão do dia a dia  
+> - Mapa de skills  
+> - Roadmap de 90 dias  
+> - Projeto de portfólio  
+> - Roteiro de entrevistas  
+> - Trilha DIO  
+> 
+> ## 📥 DADOS QUE VOCÊ RECEBE  
+> O Agent 1 vai te passar:  
+> - CARREIRA_ESCOLHIDA: (nome da carreira)  
+> - HORAS_SEMANA: (disponibilidade)  
+> - EXPERIENCIA: (zero/iniciante/alguma)  
+> - OBJETIVO: (primeiro emprego/transição/crescimento)  
+> - PREFERENCIA: (pessoas/dados/código)  
+> - INTERESSES: (tecnologias mencionadas)  
+> 
+> ## 🎬 INICIAR CONVERSA  
+> "Olá! Recebi suas informações do entrevistador.  
+> Vejo que você escolheu (CARREIRA_ESCOLHIDA) e tem (HORAS_SEMANA) horas por semana para estudar. Perfeito!  
+> Vou montar agora seu plano completo personalizado..."  
+> 
+> ## 📦 GERAR PLANO COMPLETO  
+> (formato e conteúdo detalhado solicitado)  
+> 
+> ## ⚙️ REGRAS DE PERSONALIZAÇÃO  
+> (regras sobre horas/semana, experiência, objetivo)
+
+---
+
+> **Assistente:**  
+> Entendi perfeitamente 🎯. Para eu montar o **plano completo personalizado**, preciso que você me passe os dados do Agent 1:  
+> - **CARREIRA_ESCOLHIDA**: (nome da carreira)  
+> - **HORAS_SEMANA**: (quantas horas você pode estudar por semana)  
+> - **EXPERIENCIA**: (zero / iniciante / alguma)  
+> - **OBJETIVO**: (primeiro emprego / transição / crescimento)  
+> - **PREFERENCIA**: (pessoas / dados / código)  
+> - **INTERESSES**: (tecnologias que você gostaria de aprender ou já tem curiosidade)  
+> 
+> 👉 Assim que você me passar essas informações, eu vou gerar o roadmap completo com:  
+> - Visão do dia a dia  
+> - Mapa de skills  
+> - Roadmap de 90 dias  
+> - Projeto de portfólio  
+> - Roteiro de entrevistas  
+> - Trilha DIO recomendada
+
+---
+
+> **Usuário:**  
+> - CARREIRA_ESCOLHIDA: Cientista de Dados / Machine Learning  
+> - HORAS_SEMANA: de 10 a 14 horas  
+> - EXPERIENCIA: Estou começando do zero  
+> - OBJETIVO: transição / crescimento  
+> - PREFERENCIA: (pessoas / dados  
+> - INTERESSES: inteligência artificial
+
+---
+
+> **Assistente:**  
+> Olá! Recebi suas informações do entrevistador.  
+> Vejo que você escolheu **Cientista de Dados / Machine Learning** e tem **10 a 14 horas por semana** para estudar. Perfeito!  
+> Vou montar agora seu plano completo personalizado...  
+> 
+> ---  
+> 
+> ### 🧩 VISÃO DO DIA A DIA  
+> **Como é o trabalho de um(a) Cientista de Dados / Machine Learning:**  
+> - Coletar e limpar dados de diferentes fontes  
+> - Explorar e analisar dados para encontrar padrões  
+> - Construir modelos estatísticos e de machine learning  
+> - Validar e otimizar modelos para produção  
+> - Comunicar resultados para equipes técnicas e de negócio  
+> 
+> ### 🧠 MAPA DE SKILLS  
+> **CORE SKILLS (essenciais):**  
+> - Programação em Python  
+> - Estatística e Probabilidade  
+> - Machine Learning (supervisionado e não supervisionado)  
+> 
+> **NICE-TO-HAVE (complementares):**  
+> - SQL para manipulação de dados  
+> - Visualização de dados (Matplotlib, Seaborn, Power BI)  
+> 
+> **FERRAMENTAS E TECNOLOGIAS:**  
+> - Python (Pandas, NumPy, Scikit-learn)  
+> - Jupyter Notebook  
+> - Git/GitHub  
+> 
+> ### 📅 ROADMAP DE 90 DIAS (resumo)  
+> **ADAPTADO PARA: 10 a 14 horas/semana**  
+> - **Mês 1:** Fundamentos (Python, estatística, Pandas)  
+> - **Mês 2:** Prática (regressão, classificação, Scikit-learn)  
+> - **Mês 3:** Portfólio e preparação (projeto completo, currículo, entrevistas)  
+> 
+> ### 🚀 PROJETO DE PORTFÓLIO (exemplo)  
+> **PROJETO:** Previsão de preços de imóveis com Machine Learning  
+> **ENTREGÁVEIS:** Notebook, modelo treinado, relatório com insights  
+> **DICA:** Comece simples e evolua para modelos mais complexos  
+> 
+> ### 💬 ROTEIRO DE ENTREVISTAS (exemplos)  
+> - **O que é overfitting?** — Explique e dê técnicas para evitar (regularização, cross-validation)  
+> - **Diferença entre regressão e classificação** — Regressão: valores contínuos; Classificação: categorias  
+> - **Como lidar com dados faltantes?** — Imputação, remoção, impacto no modelo  
+> - **Explique um projeto que você fez** — Estruture: problema → solução → resultado → impacto  
+> - **Bibliotecas para ML em Python** — Scikit-learn; TensorFlow/PyTorch para redes neurais  
+> 
+> ### 🎓 TRILHA DIO RECOMENDADA  
+> **TRILHA:** Bootcamp "Formação Cientista de Dados" da DIO  
+> **PRÓXIMOS PASSOS:** Acesse dio.me → busque a trilha → inscreva-se → siga o cronograma
+
+---
+
+> **Usuário:**  
+> Vamos mudar para 180 dias
+
+---
+
+> **Assistente:**  
+> Perfeito 🚀! Vamos expandir seu roadmap para **180 dias (6 meses)**, mantendo o foco em **Cientista de Dados / Machine Learning**, com sua disponibilidade de **10 a 14 horas/semana** e objetivo de **transição/crescimento**.  
+> 
+> ---  
+> 
+> ### 📅 ROADMAP DE 180 DIAS (resumo)  
+> **ADAPTADO PARA: 10 a 14 horas/semana**  
+> - **Mês 1:** Fundamentos de programação e estatística (Python, Jupyter, Git)  
+> - **Mês 2:** Análise de dados (Pandas, NumPy, SQL, visualização)  
+> - **Mês 3:** Machine Learning clássico (regressão, classificação, Scikit-learn)  
+> - **Mês 4:** ML avançado (feature engineering, XGBoost)  
+> - **Mês 5:** Introdução à IA (redes neurais, TensorFlow/PyTorch)  
+> - **Mês 6:** Portfólio e preparação para entrevistas (2–3 projetos completos, currículo, simulações)  
+> 
+> ### 🚀 PROJETO DE PORTFÓLIO PRINCIPAL  
+> **PROJETO:** Sistema de recomendação de filmes (MovieLens)  
+> **ENTREGÁVEIS:** Notebook, modelo de recomendação, dashboard simples  
+> **DICA:** Evolua de algoritmos simples para Matrix Factorization / Deep Learning  
+> 
+> ### 🎓 TRILHA DIO RECOMENDADA  
+> **TRILHA:** "Formação Cientista de Dados" + "Formação Machine Learning Specialist"  
+> **PRÓXIMOS PASSOS:** Acesse dio.me → busque as trilhas → inscreva-se → siga o cronograma
+
+---
+
+> **Usuário:**  
+> Monte uma lista de cursos para iniciantes das ferramenta citadas no roadmap
+
+---
+
+> **Assistente:**  
+> Aqui está uma lista de cursos para iniciantes das principais ferramentas citadas no seu roadmap:  
+> 
+> - **Python & Jupyter Notebook:** Curso Python para Iniciantes – DIO; Curso em Vídeo (YouTube)  
+> - **Pandas & NumPy:** NumPy Quickstart (numpy.org); Curso introdutório de Pandas (GitHub / Hashtag Programação)  
+> - **Git & GitHub:** Git e GitHub para Iniciantes – DIO; Curso Git Básico – Udemy (gratuito)  
+> - **Visualização (Matplotlib & Seaborn):** Data Visualization com Python – Alura; Seaborn tutorial – DataCamp/Kaggle  
+> - **SQL:** SQL para Iniciantes – DIO; SQL Básico – Khan Academy  
+> - **Machine Learning (Scikit-learn, TensorFlow, PyTorch):** Kaggle Learn (Intro to ML); TensorFlow.org tutorials; PyTorch.org tutorials  
+> 
+> **Sugestão de ordem:** Python → NumPy/Pandas → Git → SQL → Visualização → ML (Scikit-learn → TensorFlow/PyTorch)
+
+---
+
+> **Usuário:**  
+> Encontro estes cursos no youtube?
+
+---
+
+> **Assistente:**  
+> Sim 🎥 — muitos desses cursos e tutoriais estão no YouTube. Dicas de busca: adicionar “iniciante” ou “básico” ao nome da ferramenta. Canais recomendados: Curso em Vídeo, Hashtag Programação, Data Science Academy, DeepLearning.ai (legendado), Kaggle Learn (tem vídeos e notebooks).
+
+---
+
+> **Usuário:**  
+> Poderia detalhar melhor os tópicos em uma planilha excel?
+
+---
+
+> **Assistente:**  
+> Vou criar uma planilha Excel detalhando o roadmap de **180 dias** (6 meses) com abas: **Resumo**, **Plano Semanal (24 semanas)**, **Cursos e Recursos**, **Projetos de Portfólio**, **Roteiro de Entrevistas**.  
+> Perguntei se o usuário queria colunas de **status** e **links diretos** — o usuário respondeu **sim**.
+
+---
+
+> **Sistema / Assistente (arquivo gerado):**  
+> **Arquivo pronto:** `Roadmap_CientistaDados_180dias.xlsx` (planilha com 5 abas).  
+> Conteúdo resumido das abas:  
+> - **Resumo:** carreira, disponibilidade, experiência, objetivo, interesses, duração, projetos prioritários.  
+> - **Plano Semanal:** 24 semanas com tópicos, horas estimadas (10–14h), recursos sugeridos (links YouTube e sites oficiais), entregáveis, status.  
+> - **Cursos e Recursos:** lista por ferramenta com links reais (dio.me, kaggle.com/learn, cursoemvideo, tensorflow.org, pytorch.org, numpy.org, pandas.pydata.org, w3schools.com/sql, etc.).  
+> - **Projetos de Portfólio:** 3 projetos (previsão de preços, recomendação de filmes, classificação de imagens) com objetivos, entregáveis e critérios.  
+> - **Roteiro de Entrevistas:** 12 perguntas técnicas e comportamentais com estrutura de resposta e links de estudo.  
+> 
+> **Observação do Assistente:** instruções sobre como usar a planilha e oferta para adicionar cronograma detalhado, links específicos por semana ou templates de README.
+
+---
+
+> **Usuário:**  
+> Poderia deixar essa nossa conversa em formato para que possa copiar e posta no GitHub?
+
+---
+
+> **Assistente (resposta atual):**  
+> (esta mensagem — transcrição em Markdown pronta para copiar)
+
+---
+
+## Instruções de uso
+- Copie todo o conteúdo desta seção **(a partir do título "Roadmap — Conversa (Markdown)")** e cole em um arquivo `README.md` no seu repositório GitHub.  
+- Se quiser, adicione metadados (data, autor) no topo do arquivo.  
+- Para incluir o arquivo Excel gerado, faça upload do `Roadmap_CientistaDados_180dias.xlsx` no repositório e adicione um link para ele no `README.md`.
+
+---
+
+## Observações finais
+- Removi mensagens de sistema e metadados internos; o conteúdo acima contém apenas as mensagens trocadas entre **Usuário** e **Assistente**.  
+- Se quiser, eu posso gerar uma versão compacta (somente o plano final) ou uma versão com seções separadas por arquivos (`ROADMAP.md`, `CURSOS.md`, `PROJETOS.md`, `ENTREVISTAS.md`) para organizar melhor no repositório.
+
+---
